@@ -11,8 +11,3 @@ npm install
 ```
 npm start
 ```
-fix
-
-
-
-https://stackblitz.com/edit/angular-7-communication-between-components
