@@ -14,7 +14,11 @@
 
 
 .example1/.idea
+.example1/node_modules
 
+.messagesBetweenComponents/.idea
 .messagesBetweenComponents/node_modules
 
+.repo-angular-examples/.idea
+.repo-angular-examples/node_modules
 
